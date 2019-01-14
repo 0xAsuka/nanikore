@@ -1,7 +1,7 @@
 function streaming( $string, $action = 'e' ) {
     // you may change these values to your own
     $secret_key = 'elsa';
-    $secret_iv = 'febrianadewi';
+    $secret_iv = 'febriana';
  
     $output = false;
     $encrypt_method = "AES-256-CBC";
