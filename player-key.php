@@ -1,3 +1,4 @@
+<?php
 function streaming( $string, $action = 'e' ) {
     // you may change these values to your own
     $secret_key = 'elsa';
@@ -17,3 +18,4 @@ function streaming( $string, $action = 'e' ) {
  
     return $output;
 } 
+?>
